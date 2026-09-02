@@ -50,9 +50,9 @@ IoT-Based Real-Time Fire Detection and Monitoring System using ESP32.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riyadh-262&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Riyadh-262&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyadh-262&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Riyadh-262&layout=compact)
 
 ## 🔥 Contribution Streak
 
