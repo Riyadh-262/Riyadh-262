@@ -48,11 +48,6 @@ IoT-Based Real-Time Fire Detection and Monitoring System using ESP32.
 
 **Technologies:** ESP32, Blynk, IoT, Wi-Fi
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Riyadh-262&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Riyadh-262&layout=compact)
 
 ## 🔥 Contribution Streak
 
