@@ -1,11 +1,63 @@
-# Hi 👋, I'm Riyadh Hossain
+<div align="center">
 
-### CSE Student | Aspiring Data Scientist & Software Developer
+<!-- DYNAMIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Riyadh%20Hossain&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Cloud%20Computing&descSize=18&descAlignY=62&descColor=88ddff" width="100%" />
 
-🎓 Studying Computer Science & Engineering  
-💻 Interested in Machine Learning, Data Science and Software Development  
-🌱 Currently learning AI, Deep Learning and Explainable AI  
-🚀 I love building real-world projects
+<br/>
+
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=CSE+Student+%F0%9F%8E%93+%7C+Data+Scientist+%26+Data+Analyst;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Building+Data-Driven+%26+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/riyadhhossainofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/Riyadh-262"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.kaggle.com/riyadhdata262"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+
+<br/><br/>
+
+<!-- META BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Riyadh-262&label=Profile+Views&color=00D4FF&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Riyadh-262?label=Followers&style=flat-square&color=00D4FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Scientist%20%26%20ML-blueviolet?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-orange?style=flat-square&logo=google-maps&logoColor=white" />
+
+<br/><br/>
+
+---
+
+## 👤 About Me
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>🎓 Education</b></td>
+    <td>CSE, East West University — 10th Semester (Expected jul 2027)</td>
+    <td align="center" width="140"><b>📍 Location</b></td>
+    <td>Dhaka, Bangladesh 🇧🇩</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧠 Focus</b></td>
+    <td>Data Scientist · Data Analyst · Machine Learning · Cloud Computing</td>
+    <td align="center"><b>🚧 Building</b></td>
+    <td>UniRide — smart ride-sharing app</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌱 Learning</b></td>
+    <td>Exploring Data Science, Deep Learning & Explainable AI · Building Data-Driven & Intelligent Solutions</td>
+    <td align="center"><b>⚡ Fuel</b></td>
+    <td>Tea + Coffee ☕</td>
+  </tr>
+</table>
+
+---
 
 ## 💻 Tech Stack
 
