@@ -59,30 +59,6 @@
 
 ---
 
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-Languages
-Python • Java • C • C++
-
-Machine Learning
-TensorFlow • Scikit-learn • Pandas • NumPy
-
-Database
-MySQL • Oracle
-
-Development
-Git • GitHub • Flask • Django
-
-IoT
-ESP32 • MQTT • Blynk
-
 ## 🚀 Featured Projects
 
 ### 🏦 Loan Approval Prediction using Machine Learning
@@ -100,13 +76,64 @@ IoT-Based Real-Time Fire Detection and Monitoring System using ESP32.
 
 **Technologies:** ESP32, Blynk, IoT, Wi-Fi
 
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+### 🗄️ Data, Infra & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
 
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Riyadh-262)
 
-## 🤝 Connect With Me
+## 📊 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyadhhossainofficial/)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Riyadh-262&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" height="170" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyadhhossain039@gmail.com)
+<br/><br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Riyadh-262&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="170" />
+
+<br/><br/>
+
+<!-- Snake Game (needs workflow to run successfully at least once) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zahid074/Zahid074/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zahid074/Zahid074/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Zahid074/Zahid074/output/github-snake.svg" />
+</picture>
+
+<br/><br/>
+
+## 🤝 Let's Connect
+
+Open to **internships**, **freelance full-stack work**, and **collaborative projects**.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyadhhossainofficial)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/View%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/riyadhdata262)
+
+<br/><br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
