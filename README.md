@@ -47,7 +47,7 @@
     <td align="center"><b>🧠 Focus</b></td>
     <td>Data Scientist · Data Analyst · Machine Learning · Cloud Computing</td>
     <td align="center"><b>🚧 Building</b></td>
-    <td>UniRide — smart ride-sharing app</td>
+    <td>🚀 IntelliPredict — Cloud-Based Intelligent Analytics & Prediction Platform</td>
   </tr>
   <tr>
     <td align="center"><b>🌱 Learning</b></td>
